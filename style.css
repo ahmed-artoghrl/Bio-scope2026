@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Tahoma', sans-serif;
+    background-color: #f9f9f9;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+}
+.center {
+    text-align: center;
+}
+.button {
+    display: inline-block;
+    background-color: #222;
+    color: #fff;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.grade {
+    background-color: #f1f1f1;
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
